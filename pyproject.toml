@@ -16,4 +16,4 @@ log_file_level = 'DEBUG'
 testpaths = ['tests']
 python_files = ['test_*.py']
 python_functions = ['test_*']
-xfail_strict = 'True'å
+xfail_strict = 'True'
